@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Aduragbemi 👋
 
-<!--
-**AduragbemiOyinlola/AduragbemiOyinlola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **About Me**  
+- 🌟 Data Scientist skilled in Python, Power BI, PostgreSQL, and Git.  
+- 🎓 Certified SQL Associate (DataCamp).  
+- 🤖 Enthusiast of Machine Learning, PyTorch, and Multi-Agent Systems.  
+- 📊 Passionate about data visualization and strategic decision-making.  
+- 🌍 Exploring new opportunities to deliver data-driven outcomes.  
 
-Here are some ideas to get you started:
+📬 **Get in Touch**  
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)  
+- 📧 Email: yourname@example.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ **Fun Facts**  
+- 🎥 I love action movies featuring guns and soldiers.  
+- 🍴 Planning to try Nigerian breakfast Akara and Akam soon!  
