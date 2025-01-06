@@ -8,9 +8,8 @@
 - 🌍 Exploring new opportunities to deliver data-driven outcomes.  
 
 📬 **Get in Touch**  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)  
-- 📧 Email: yourname@example.com 
+- 💼 LinkedIn: [Your LinkedIn Profile](linkedin.com/in/aduragbemi-oyinlola/)  
+- 📧 Email: aduragbemioyinlola@gmail.com
 
 ✨ **Fun Facts**  
-- 🎥 I love action movies featuring guns and soldiers.  
-- 🍴 Planning to try Nigerian breakfast Akara and Akam soon!  
+- 🎥 I love action movies featuring guns and soldiers.
